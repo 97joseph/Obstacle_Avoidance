@@ -3,12 +3,7 @@
 Obstacle Avoidance with Bug 2 Algorithm
 
 
-**CS 733/833 Introduction to Mobile Robotics **
-
-**Fall 2021, Prof. Begum **
-
-**Lab Assignment # 5: Obstacle Avoidance with
-Bug 2 Algorithm [7 points] **
+**Introduction to Mobile Robotics **
 
 **Introduction:  **
 
