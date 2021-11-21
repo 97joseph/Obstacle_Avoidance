@@ -2,7 +2,7 @@
 
 Obstacle Avoidance with Bug 2 Algorithm
 
-## Introduction to Mobile RoboticsFall2021
+## Introduction to Mobile Robotics
 
  # 5: Obstacle Avoidance with Bug 2 Algorithm [7points]Introduction: 
 
