@@ -4,7 +4,7 @@ Obstacle Avoidance with Bug 2 Algorithm
 
 ## Introduction to Mobile Robotics
 
- # 5: Obstacle Avoidance with Bug 2 Algorithm [7points]Introduction: 
+Obstacle Avoidance with Bug 2 Algorithm Introduction:
 
 In this lab, you will write a ROS package for obstacle avoidance using Bug2 algorithm. The theory of Bug2 has been discussed in the class. You will implement a Bug2 algorithm to enable your robot to reach a goal position from a start position in a given map while avoiding an unplanned obstacle.  This lab has two components and will be completed in two weeks. Lab Work: Navigating  to  a  pre-defined  goal  while  avoiding  an  unplanned  obstacle  using  Bug2  algorithm requires implementation of two behaviors in the robot: “goal-seek” (where the robot will follow a planned trajectory to reach the goal) and “wall-follow” (where the robot will follow the wall of  the  obstacle  until  it  reaches  the  m-line).  The robot needs  to  continuously  localize  itself while executing these two behaviors. You will use AMCLfor localizing the robot(the same way you used AMCL inLab 4). 
 
