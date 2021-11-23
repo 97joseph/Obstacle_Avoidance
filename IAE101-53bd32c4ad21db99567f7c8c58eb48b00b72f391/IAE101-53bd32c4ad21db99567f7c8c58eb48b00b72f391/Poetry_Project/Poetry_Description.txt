@@ -1,0 +1,3 @@
+This poetry generator generates a haiku with no 
+specific rhyme scheme or meter.
+Syllables per line: 5 - 7 - 5
